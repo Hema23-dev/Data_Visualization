@@ -1,0 +1,101 @@
+Order_id,Order_date,Restaurant_name,Cuisine,Item,Quantity,Unit_price,Total_amount,Payment_method,City,Rating
+R001,2026-08-04,Dindigul Thalappakatti,continental,Grilled Chicken,3.0,150.0,450.0,UPI,Coimbatore,3.8
+R002,2026-08-08,KFC,Continental,Grilled Chicken,2.0,150.0,300.0,Unknown,chennai,4.8
+R003,2026-09-04,Anand Bhavan,Italian,Garlic Bread,2.0,200.0,400.0,Card,Trichy,3.4
+R004,2026-09-01,Domino's,South Indian,Dosa,3.0,150.0,450.0,Net Banking,Chennai,4.4
+R005,2026-08-04,Dindigul Thalappakatti,continental,Sandwich,2.0,220.0,440.0,Card,chennai,3.8
+R006,2026-08-22,Dindigul Thalappakatti,italian,Garlic Bread,3.0,250.0,750.0,Net Banking,Coimbatore,3.8
+R007,2026-08-16,Dindigul Thalappakatti,continental,Burger,2.0,100.0,200.0,Cash,CHENNAI,3.8
+R008,2026-08-13,Domino's,Italian,Garlic Bread,2.0,200.0,400.0,Unknown,Trichy,3.3
+R009,2026-09-11,Domino's,CONTINENTAL,Burger,2.0,150.0,300.0,Cash,Salem,3.8
+R010,2026-09-08,Hotel Saravana,Continental,Sandwich,2.0,150.0,300.0,Card,Chennai,4.5
+R011,2026-09-11,Dindigul Thalappakatti,CONTINENTAL,Burger,1.0,220.0,220.0,Net Banking,Salem,4.6
+R012,2026-09-06,Domino's,CONTINENTAL,Sandwich,2.0,150.0,300.0,UPI,chennai,3.1
+R013,2026-08-15,Domino's,South Indian,Pongal,4.0,150.0,600.0,Cash,Coimbatore,3.7
+R014,2026-09-19,Sangeetha,South Indian,Vada,2.0,60.0,120.0,Cash,Madurai,4.2
+R015,2026-09-06,Sangeetha,South Indian,Pongal,2.0,150.0,300.0,Card,Chennai,2.7
+R016,2026-09-26,Hotel Saravana,Continental,Grilled Chicken,3.0,150.0,450.0,Card,Trichy,5.0
+R017,2026-09-19,Domino's,CONTINENTAL,Salad,2.0,220.0,440.0,Cash,Madurai,3.8
+R018,2026-08-25,Dindigul Thalappakatti,italian,Pasta,2.0,200.0,400.0,Net Banking,Trichy,3.5
+R019,2026-08-17,Sangeetha,CONTINENTAL,Salad,1.0,220.0,220.0,UPI,Salem,3.0
+R020,2026-09-14,KFC,chinese,Noodles,2.0,120.0,240.0,Cash,Coimbatore,2.5
+R021,2026-09-16,KFC,SOUTH INDIAN,Pongal,3.0,150.0,450.0,UPI,chennai,3.8
+R022,2026-08-30,Sangeetha,Continental,Grilled Chicken,2.0,150.0,300.0,Cash,chennai,4.1
+R023,2026-08-07,KFC,South Indian,Dosa,2.0,120.0,240.0,Net Banking,Trichy,4.2
+R024,2026-09-15,Hotel Saravana,italian,Garlic Bread,3.0,300.0,900.0,Unknown,Madurai,3.8
+R025,2026-08-25,KFC,South Indian,Pongal,2.0,60.0,120.0,Card,Trichy,3.9
+R026,2026-09-13,Hotel Saravana,North Indian,Naan,4.0,150.0,600.0,Unknown,Coimbatore,3.8
+R027,2026-08-23,KFC,chinese,Noodles,3.0,150.0,450.0,Card,Coimbatore,3.8
+R028,2026-09-29,Dindigul Thalappakatti,Continental,Salad,2.0,150.0,300.0,Unknown,Trichy,3.8
+R029,2026-09-23,Hotel Saravana,South Indian,Idli,2.0,150.0,300.0,Unknown,Trichy,3.8
+R030,2026-09-26,Hotel Saravana,South Indian,Idli,4.0,100.0,400.0,Card,Salem,4.1
+R031,2026-08-23,Hotel Saravana,North Indian,Naan,3.0,180.0,540.0,Cash,Chennai,3.8
+R032,2026-08-22,Domino's,Continental,Burger,2.0,150.0,300.0,Net Banking,chennai,3.7
+R033,2026-09-28,Anand Bhavan,NORTH INDIAN,Naan,3.0,250.0,750.0,UPI,chennai,3.7
+R034,2026-09-01,Anand Bhavan,Continental,Salad,1.0,100.0,100.0,Net Banking,Madurai,4.2
+R035,2026-09-24,Hotel Saravana,Continental,Salad,2.0,150.0,300.0,Unknown,chennai,3.8
+R036,2026-09-03,Anand Bhavan,Chinese,Fried Rice,4.0,150.0,600.0,Card,Madurai,4.6
+R037,2026-09-09,Hotel Saravana,Continental,Grilled Chicken,3.0,150.0,450.0,Card,Chennai,2.9
+R038,2026-09-13,Sangeetha,Chinese,Fried Rice,2.0,200.0,400.0,Unknown,Coimbatore,3.8
+R039,2026-09-16,Domino's,chinese,Manchurian,2.0,120.0,240.0,Net Banking,Madurai,4.1
+R040,2026-08-26,Domino's,continental,Sandwich,2.0,150.0,300.0,UPI,CHENNAI,4.7
+R041,2026-09-02,KFC,continental,Salad,2.0,150.0,300.0,UPI,CHENNAI,3.8
+R042,2026-08-31,Hotel Saravana,CONTINENTAL,Grilled Chicken,1.0,150.0,150.0,Net Banking,Coimbatore,2.8
+R043,2026-09-07,KFC,Chinese,Manchurian,2.0,150.0,300.0,Card,Madurai,3.3
+R044,2026-08-02,Domino's,South Indian,Dosa,3.0,120.0,360.0,Unknown,Salem,4.6
+R045,2026-09-25,Domino's,north indian,Biryani,3.0,150.0,450.0,Net Banking,Chennai,3.8
+R046,2026-08-14,Anand Bhavan,South Indian,Pongal,4.0,150.0,600.0,UPI,Chennai,3.8
+R047,2026-08-28,KFC,Continental,Salad,3.0,150.0,450.0,Net Banking,chennai,3.8
+R048,2026-09-22,Anand Bhavan,ITALIAN,Lasagna,1.0,250.0,250.0,Unknown,Coimbatore,3.8
+R049,2026-08-06,KFC,continental,Grilled Chicken,4.0,180.0,720.0,Card,Salem,3.0
+R050,2026-09-11,Anand Bhavan,Italian,Pasta,3.0,150.0,450.0,Cash,Coimbatore,3.9
+R051,2026-08-06,Dindigul Thalappakatti,CHINESE,Spring Rolls,2.0,150.0,300.0,UPI,Coimbatore,4.3
+R052,2026-08-03,KFC,CONTINENTAL,Sandwich,1.0,100.0,100.0,Cash,Chennai,3.8
+R053,2026-08-19,Sangeetha,Italian,Pasta,1.0,250.0,250.0,UPI,CHENNAI,3.8
+R054,2026-08-11,Domino's,Chinese,Spring Rolls,4.0,120.0,480.0,UPI,Chennai,3.8
+R055,2026-09-18,Hotel Saravana,ITALIAN,Pasta,2.0,300.0,600.0,Cash,Madurai,4.3
+R056,2026-09-06,Anand Bhavan,Continental,Burger,1.0,150.0,150.0,UPI,Madurai,4.3
+R057,2026-09-02,Sangeetha,south indian,Dosa,2.0,100.0,200.0,Unknown,Madurai,3.8
+R058,2026-09-27,Sangeetha,North Indian,Naan,2.0,300.0,600.0,Card,Trichy,4.5
+R059,2026-09-01,Anand Bhavan,north indian,Butter Chicken,2.0,150.0,300.0,Unknown,Chennai,3.8
+R060,2026-08-14,Domino's,CHINESE,Fried Rice,2.0,120.0,240.0,Unknown,Coimbatore,3.8
+R061,2026-08-08,Hotel Saravana,south indian,Dosa,4.0,80.0,320.0,Card,Coimbatore,3.1
+R062,2026-09-16,Hotel Saravana,CONTINENTAL,Sandwich,2.0,100.0,200.0,Cash,Chennai,3.8
+R063,2026-09-13,Sangeetha,SOUTH INDIAN,Pongal,2.0,150.0,300.0,Card,CHENNAI,4.2
+R064,2026-09-14,Anand Bhavan,Chinese,Fried Rice,1.0,150.0,150.0,UPI,CHENNAI,4.5
+R065,2026-09-18,Dindigul Thalappakatti,Chinese,Noodles,3.0,200.0,600.0,Net Banking,Chennai,2.5
+R066,2026-08-06,Hotel Saravana,Continental,Burger,1.0,150.0,150.0,Card,Salem,3.8
+R067,2026-09-15,Sangeetha,italian,Pizza,3.0,150.0,450.0,Card,Trichy,3.8
+R068,2026-08-20,KFC,North Indian,Butter Chicken,2.0,220.0,440.0,Unknown,Salem,3.8
+R069,2026-09-11,Dindigul Thalappakatti,CONTINENTAL,Grilled Chicken,2.0,180.0,360.0,Card,CHENNAI,4.4
+R070,2026-09-17,Sangeetha,CHINESE,Fried Rice,2.0,150.0,300.0,Unknown,Salem,3.8
+R071,2026-09-15,Sangeetha,continental,Burger,2.0,180.0,360.0,Cash,Chennai,4.6
+R072,2026-08-07,KFC,SOUTH INDIAN,Pongal,2.0,100.0,200.0,UPI,Madurai,3.0
+R073,2026-08-11,Anand Bhavan,South Indian,Dosa,2.0,80.0,160.0,UPI,Chennai,3.7
+R074,2026-08-22,Anand Bhavan,ITALIAN,Pizza,1.0,200.0,200.0,Cash,Chennai,3.1
+R075,2026-08-23,Domino's,ITALIAN,Garlic Bread,2.0,250.0,500.0,Net Banking,Trichy,2.6
+R076,2026-08-31,Dindigul Thalappakatti,Continental,Grilled Chicken,1.0,180.0,180.0,Unknown,CHENNAI,3.8
+R077,2026-09-26,Dindigul Thalappakatti,South Indian,Pongal,2.0,150.0,300.0,Card,CHENNAI,3.0
+R078,2026-08-14,Sangeetha,North Indian,Butter Chicken,2.0,220.0,440.0,Unknown,Chennai,2.8
+R079,2026-08-14,Anand Bhavan,NORTH INDIAN,Butter Chicken,2.0,150.0,300.0,Card,Salem,3.6
+R080,2026-09-03,Sangeetha,Italian,Pasta,2.0,150.0,300.0,Card,chennai,3.8
+R081,2026-08-07,Sangeetha,Italian,Pizza,1.0,150.0,150.0,Card,CHENNAI,4.9
+R082,2026-08-06,KFC,italian,Pizza,1.0,150.0,150.0,Card,Coimbatore,3.8
+R083,2026-08-09,Domino's,SOUTH INDIAN,Dosa,1.0,60.0,60.0,Card,chennai,5.0
+R084,2026-09-03,Domino's,North Indian,Paneer Butter Masala,1.0,220.0,220.0,UPI,Salem,3.8
+R085,2026-08-07,Domino's,Continental,Sandwich,2.0,180.0,360.0,UPI,Madurai,3.4
+R086,2026-09-27,Domino's,NORTH INDIAN,Biryani,2.0,300.0,600.0,Net Banking,Trichy,2.8
+R087,2026-09-18,Domino's,south indian,Dosa,4.0,80.0,320.0,Cash,Coimbatore,4.5
+R088,2026-08-25,Domino's,CONTINENTAL,Sandwich,3.0,150.0,450.0,UPI,Coimbatore,3.8
+R089,2026-08-20,Hotel Saravana,North Indian,Paneer Butter Masala,4.0,300.0,1200.0,Net Banking,Madurai,3.8
+R090,2026-08-31,Anand Bhavan,NORTH INDIAN,Biryani,2.0,300.0,600.0,UPI,Trichy,3.2
+R091,2026-08-06,Domino's,chinese,Fried Rice,3.0,120.0,360.0,Cash,Coimbatore,4.8
+R092,2026-08-21,Anand Bhavan,North Indian,Naan,1.0,180.0,180.0,Net Banking,Coimbatore,3.8
+R093,2026-09-10,Domino's,SOUTH INDIAN,Dosa,2.0,120.0,240.0,Cash,CHENNAI,2.9
+R094,2026-08-20,Anand Bhavan,NORTH INDIAN,Naan,2.0,300.0,600.0,Net Banking,chennai,4.1
+R095,2026-08-07,Anand Bhavan,Italian,Pizza,2.0,150.0,300.0,Unknown,Trichy,4.0
+R096,2026-09-21,Hotel Saravana,CHINESE,Fried Rice,2.0,150.0,300.0,Card,Chennai,3.8
+R097,2026-09-20,Hotel Saravana,South Indian,Idli,4.0,60.0,240.0,Net Banking,CHENNAI,3.8
+R098,2026-09-05,Anand Bhavan,Continental,Grilled Chicken,1.0,100.0,100.0,Cash,Coimbatore,2.5
+R099,2026-08-29,Sangeetha,italian,Pizza,2.0,150.0,300.0,Card,Coimbatore,4.7
+R100,2026-09-02,Anand Bhavan,North Indian,Biryani,4.0,250.0,1000.0,UPI,Chennai,3.8
